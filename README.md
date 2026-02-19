@@ -3,10 +3,11 @@
 
 <p align="center">
   <img 
-    src="https://api.dicebear.com/7.x/adventurer/svg?seed=Anurag&backgroundColor=0b132b&hair=short01,short02&eyes=variant12&mouth=smile" 
-    width="180" 
+    src="https://api.dicebear.com/7.x/adventurer/png?seed=Anurag&backgroundColor=0b132b&size=256" 
+    width="180"
   />
 </p>
+
 
 ---
 
@@ -61,12 +62,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAnurag09&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAnurag09&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevAnurag09&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=DevAnurag09&theme=dark&hide_border=true" />
 </p>
+
 
 ---
 

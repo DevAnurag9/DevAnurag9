@@ -42,9 +42,10 @@ Most of my projects start as random late-night ideas 🚀
 `MongoDB` `MySQL`
 
 ---
-
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAnurag9&show_icons=true&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnurag9&layout=compact&theme=dark)
 
 ---
